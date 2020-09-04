@@ -1,0 +1,21 @@
+.books-container {
+    display: flex;
+    flex-direction: column;
+    width:50%;
+    margin:0 auto;
+    margin-top: 30px;
+    cursor:pointer;
+    cursor:pointer;
+    
+  }
+  .mat-row:hover{
+    background-color:lightgreen;
+    transform: scale(1.01);
+    box-shadow: 5px 5px 5px grey;
+}
+  
+  .header{
+    width:100%;
+    display: inline-block;
+    text-align: center;
+}
